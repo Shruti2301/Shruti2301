@@ -14,6 +14,7 @@ Publication 2 : https://www.researchgate.net/publication/359066711_Employing_mul
 🌱 I’m currently learning more in depth about Python, Deep Learning Algorithms, Statistics and Imaging.
 
 🤔 I’m looking for Machine Learning and Computer Vision Internships. Any mentors would be highly appreciated.
+
    These days I'm learning about Data Visualisation and tools like Excel, PowerBI and Tableau.
 
 🔭 I’m sometimes blog on TheTechieGuys on Medium :
