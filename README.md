@@ -1,6 +1,9 @@
 ### Hi there 👋 I'm Shruti Mandaokar, a Data Science and Computer Vision Enthusiast.
 My areas of interest include Image Vision, Machine Vision applications in software and hardware.
 
+LinkedIm Profile -https://www.linkedin.com/in/shruti-mandaokar/
+Medium Profile - https://medium.com/@shruti.mandaokar
+
 Previously, I worked as an AI Research Intern at Symbiosis Centre of Applied AI
 
 and worked on - Gas Detection Using Multi Sensor Fusion.
