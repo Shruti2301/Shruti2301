@@ -2,14 +2,13 @@
 My areas of interest include Image Vision, Machine Vision applications in software and hardware.
 
 LinkedIm Profile -https://www.linkedin.com/in/shruti-mandaokar/
+
 Medium Profile - https://medium.com/@shruti.mandaokar
 
-Previously, I worked as an AI Research Intern at Symbiosis Centre of Applied AI
-
-and worked on - Gas Detection Using Multi Sensor Fusion.
-
+Previously, I worked as an AI Research Intern at Symbiosis Centre of Applied AI and worked on - Gas Detection Using Multi Sensor Fusion.
+After that, I was working with Vodafone Intelligent Solutions as a Software Developer improving Business Process Design and Workflow.
 Currently, I have been working with Suvidha Foundation as a Data Science Intern on 'Text Summarization Using Rejection Learning'.
-Previously, I was working with Vodafone Intelligent Solutions as a Software Developer improving Business Process Design and Workflow.
+
 
 Publication 1 : https://www.mdpi.com/2571-5577/4/1/3
 
