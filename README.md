@@ -5,7 +5,8 @@ Previously, I worked as an AI Research Intern at Symbiosis Centre of Applied AI
 
 and worked on - Gas Detection Using Multi Sensor Fusion.
 
-Currently, I am working with Vodafone Intelligent Solutions as an Engineer Trainee improving Business Process Design and Workflow.
+Currently, I have been working with Suvidha Foundation as a Data Science Intern on 'Text Summarization Using Rejection Learning'.
+Previously, I was working with Vodafone Intelligent Solutions as a Software Developer improving Business Process Design and Workflow.
 
 Publication 1 : https://www.mdpi.com/2571-5577/4/1/3
 
