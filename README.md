@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Shruti Mandaokar, a Data Science and Computer Vision Enthusiast.
 My areas of interest include Image Vision, Machine Vision applications in software and hardware.
 
-LinkedIm Profile -https://www.linkedin.com/in/shruti-mandaokar/
+LinkedIn Profile -https://www.linkedin.com/in/shruti-mandaokar/
 
 Medium Profile - https://medium.com/@shruti.mandaokar
 
@@ -24,7 +24,7 @@ Dataset URL : https://data.mendeley.com/datasets/zkwgkjkjn9/2
 
    These days I'm learning about Data Visualisation and tools like Excel, PowerBI and Tableau.
 
-🔭 I’m sometimes blog on TheTechieGuys on Medium :
+🔭 I’m sometimes blog on TheTechieGuys on Medium : https://medium.com/thetechieguys
 
 📫 Open to meet new people, reach me at : shrutimandaokar.connect@gmail.com
 
