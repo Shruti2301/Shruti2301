@@ -12,6 +12,7 @@ After that, I worked with Vodafone Intelligent Solutions as a Software Developer
 Currently, I have been working with Suvidha Foundation as a Data Science Intern on 'Text Summarization Using Rejection Learning'.
 
 
+During my undergraduate studies, I worked as a Research Intern at SCAAI and published 3 publications in reputed journals. -
 
 1. Gas Detection and Identification Using Multimodal Artificial Intelligence Based Sensor Fusion, published in Applied System Innovation, MDPI
 ( Link: https://www.mdpi.com/2571-5577/4/1/3 )
