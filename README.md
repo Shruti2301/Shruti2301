@@ -11,7 +11,7 @@ Hi there 👋
 
 I am primarily interested in the areas of Perception, Computer Vision, User Personalized Systems and Multimodal Fusion. 
 
-Currently, I'm upskilling myself in :
+## Currently, I'm upskilling myself in :
 Multimodal AI, Retrieval Augmented Generation, GNN-Based Clustering, Data Preprocessing, EDA and Feature
 Engineering, Model Evaluation, Kubernetes, Docker, LLM, Transfer Learning, Deep Learning, NLP, GANs, Reinforcement
 Learning, Hyperparameter Tuning, Causal Inference, A/B Testing, Ensemble Learning, ML System Design and Algorithms,
