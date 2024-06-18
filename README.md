@@ -6,7 +6,7 @@ Hi there 👋
 - I'm Shruti Mandaokar - A Masters in Computer Science student at Purdue University.
 - I am also an aspiring Data Scientist / Machine Learning Engineer - a curious person, with a aim to build for impact.
 - Currently, I work as a Project Manager at Lab of Data Science at Purdue University.
-- My current project is aimed at applying the latest technologies in Deep Transfer Learning and Fairness ML to improve the quality  exisitng bias in different ethnic representations that can be used horizontally for tackling healthcare disparity.
+- My current project is aimed at applying the latest technologies in Deep Transfer Learning and Fairness ML to improve the quality exisiting bias in different ethnic representations that can be used horizontally for tackling healthcare disparity.
 - I'm looking for Data and Machine Learning Opportunities (Internship and Full Time Both) Starting Summer 2024.
 
 I am primarily interested in the areas of Perception, Computer Vision, User Personalized Systems and Multimodal Fusion. 
