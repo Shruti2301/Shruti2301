@@ -11,6 +11,12 @@ Hi there 👋
 
 I am primarily interested in the areas of Perception, Computer Vision, User Personalized Systems and Multimodal Fusion. 
 
+Currently, I'm upskilling myself in :
+Multimodal AI, Retrieval Augmented Generation, GNN-Based Clustering, Data Preprocessing, EDA and Feature
+Engineering, Model Evaluation, Kubernetes, Docker, LLM, Transfer Learning, Deep Learning, NLP, GANs, Reinforcement
+Learning, Hyperparameter Tuning, Causal Inference, A/B Testing, Ensemble Learning, ML System Design and Algorithms,
+Vertex AI,Power BI, CUDA, BERT, GCP, Kafka, Spark SQL, VectorDB, dbt, SparkML
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shruti2301&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shruti2301&theme=dark&hide_border=false)<br/>
