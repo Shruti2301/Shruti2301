@@ -4,7 +4,9 @@
 
 Hi there 👋
 - I'm Shruti Mandaokar - A Masters in Computer Science student at Purdue University Fort Wayne.
-- I'm looking for Data and Machine Learning Opportunities (Internship and Full Time Both) Starting Summer 2024.
+- I'm looking for Data and Machine Learning Opportunities (Full Time Both) Starting Summer 2026.
+- My Leetcode Streak and Profile - https://leetcode.com/u/user1838wZ/
+- My Portfolio -> https://mands010.wixsite.com/shruti
 
 I am primarily interested in the areas of Perception, Computer Vision, User Personalized Systems and Multimodal Fusion. 
 
