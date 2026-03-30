@@ -8,7 +8,7 @@ Hi there 👋
 - My Leetcode Streak and Profile - https://leetcode.com/u/user1838wZ/
 - My Portfolio -> https://mands010.wixsite.com/shruti
 
-I am primarily interested in the areas of Perception, Computer Vision, User Personalized Systems and Multimodal Fusion. 
+I am primarily interested in the areas of Product, Full Stack, Deep Learning, User Personalized Systems and Multimodal Fusion. 
 
 
 # 📊 GitHub Stats:
