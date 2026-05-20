@@ -14,8 +14,11 @@
 
 <br/>
 
-> *Building ML systems that are accurate, fair, and robust under adversarial pressure.*
-> *M.S. Computer Science · Purdue University · May 2026 · Available July 9, 2026 · OPT/F-1*
+> *Building ML and Sensor Fusion systems that are accurate, fair, and robust under adversarial pressure.*
+
+> *M.S. Computer Science · Purdue University · May 2026*
+
+> *· Available July 9, 2026 · on OPT/F-1*
 
 </div>
 
