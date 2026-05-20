@@ -5,7 +5,7 @@
 
 # Shruti Mandaokar
 
-**ML Engineer · AI Safety & Fairness · Published Researcher**
+**ML Engineer · Sensor Fusion · AI Safety & Fairness · Published Researcher**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shruti-mandaokar)
 [![Google Scholar](https://img.shields.io/badge/Scholar_·_225+_Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/scholar?q=shruti+mandaokar)
