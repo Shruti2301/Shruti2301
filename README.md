@@ -88,6 +88,7 @@ End-to-end AI image enhancement product: **ESRGAN + GFPGAN + Colorization** with
 `Python` `React` `AWS S3` `ESRGAN` `GFPGAN` `Diffusion Models` `Flask`
 
 [![Demo](https://img.shields.io/badge/Watch_Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=OmJW-4ePMEc&feature=youtu.be)
+[![View Repo](https://img.shields.io/badge/View_Repo-0F2D52?style=flat-square&logo=github&logoColor=white)]((https://github.com/m0numental/PixelPerfectAI))
 
 ---
 
