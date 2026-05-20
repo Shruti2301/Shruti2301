@@ -8,7 +8,7 @@
 **ML Engineer · Sensor Fusion · AI Safety & Fairness · Published Researcher**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shruti-mandaokar)
-[![Google Scholar](https://img.shields.io/badge/Scholar_·_225+_Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/scholar?q=shruti+mandaokar)
+[![Google Scholar](https://img.shields.io/badge/Scholar_·_230+_Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/scholar?q=shruti+mandaokar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F2D52?style=for-the-badge&logo=about.me&logoColor=white)](https://mands010.wixsite.com/shruti)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/user1838wZ/)
 
