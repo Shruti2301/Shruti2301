@@ -5,7 +5,7 @@
 
 # Shruti Mandaokar
 
-**ML Engineer · Sensor Fusion · AI Hobbyist · Published Researcher**
+* Software Engineer· AI Hobbyist · Published Researcher**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shruti-mandaokar)
 [![Google Scholar](https://img.shields.io/badge/Scholar_·_230+_Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/scholar?q=shruti+mandaokar)
@@ -13,8 +13,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/user1838wZ/)
 
 <br/>
-
-> *Building ML and Sensor Fusion systems that are accurate, fair, and robust under adversarial pressure.*
 
 > *M.S. Computer Science · Purdue University · May 2026*
 
@@ -127,14 +125,14 @@ Fine-tuned **RoBERTa** to extract emotion-cause pairs from clinical-style dialog
 ## 🌱 Currently
 
 - 🎓 Graduated M.S. Computer Science at Purdue University (May 2026)
-- 🔍 Seeking ML Engineering roles in **Sensor Fusion, Deep Learning, AI Safety, Content Integrity, and User Personalization **
+- 🔍 Seeking ML Engineering roles in Early Machine Learning or Software Engineering :)
 - 📍 Based in San Carlos, CA · Available July 9, 2026 · OPT/F-1
 
 ---
 
 <div align="center">
 
-*Women Techmakers · Society of Women Engineers · Kaggle contributor*
+*Women Techmakers · Society of Women Engineers>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2D52,1A4A7A&height=80&section=footer" width="100%"/>
 
